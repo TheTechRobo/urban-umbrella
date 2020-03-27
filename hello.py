@@ -1,2 +1,2 @@
 print("Hello world!")
-print("This is the beta version")
+print("This is 1.0.1 stable!")
